@@ -30,8 +30,7 @@ The project uses the SpamAssassin Public Corpus or publicly available datasets f
 How to Use 🛠️
 Clone this repository:
 bash
-Copy code
-git clone https://github.com/yourusername/email-spam-detection.git
+
 Open the Jupyter Notebook:
 bash
 Copy code
